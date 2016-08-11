@@ -2,3 +2,4 @@ name: Taylor Jadin
 markdown: kramdown
 permalink: /posts/:year/:month/:day/:title
 repository: taylorjadin/taylorjadin.github.io
+future: true
