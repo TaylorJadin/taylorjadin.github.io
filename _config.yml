@@ -1,5 +1,6 @@
 name: Taylor Jadin
-markdown: kramdown
-permalink: /posts/:year/:month/:day/:title
+permalink: /posts/:title
 repository: taylorjadin/taylorjadin.github.io
 future: true
+markdown: kramdown
+highlighter: rogue
