@@ -3,4 +3,4 @@ permalink: /posts/:title
 repository: taylorjadin/taylorjadin.github.io
 future: true
 markdown: kramdown
-highlighter: rogue
+highlighter: rouge
